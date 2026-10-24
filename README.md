@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Md Shihab Sarker!<br>🎓 Currently studying at BRAC University.<br>💡 Passionate about problem-solving and web development.<br>🚀 Built two websites: one using PHP and another with the MERN stack.<br>🔧 Currently diving deeper into MERN stack development.<br>🌟 Excited to explore and learn new frameworks and technologies.
 
-## MyWebsite: https://shihabsarker93.github.io/
+## Portfolio: https://shihabsarker93.github.io/
 
 
 # 💻 Tech Stack:
